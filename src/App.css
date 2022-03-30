@@ -1,0 +1,55 @@
+.App {
+  padding:15px;
+}
+
+.header {
+  color: #ffffff;
+  font-size: 18px !important;
+}
+
+.featuresContainer {
+  background: #0d1117;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.iconDiv {
+  background: #070707;
+  width: 6vw;
+  height:7vh;
+}
+
+.innerDiv {
+display: flex;
+}
+
+.subtext {
+  color:#fff;
+  font-size: 14px !important;
+  margin: 12px 0 12px 6px !important;
+}
+
+.settingsContainer {
+  border : 2px solid grey;
+  padding : 8px 0 8px 0;
+}
+
+.settingsDiv {
+  padding: 8px;
+  display:flex;
+  justify-content: space-between;
+  background: #0d1117;
+}
+
+.usersDiv {
+  padding: 8px;
+  display:flex;
+  justify-content: space-between;
+  background: #0d1117;
+}
+
+.alertsDiv {
+  display: flex;
+  margin-top:16px;
+}
