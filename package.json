@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
+  "name": "features-management",
   "version": "0.1.0",
   "private": true,
+  "author":"nayanarshet5@gmail.com",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
